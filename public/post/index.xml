@@ -20,5 +20,20 @@
       <description>&lt;p&gt;We have a sorta-functional website now. Much thanks to PJB, who patiently taught me a whole lot about web design in a very short amount of time.&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>Steam Workshop Release</title>
+      <link>https://rimworldmultiplayer.com/post/19_05_27_steamrelease/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 -0700</pubDate>
+      
+      <guid>https://rimworldmultiplayer.com/post/19_05_27_steamrelease/</guid>
+      <description>&amp;nbsp;
+Patch v.0.4.6 | Protocol 15 Rimworld Multiplayer has finally been released on the Steam Workshop! https://steamcommunity.com/sharedfiles/filedetails/?id=1752864297
+We decided to do this a bit earlier then planned because of several reasons
+ A lot of people were having trouble installing the mod
+ Updating the mod will be really easy for everyone
+ Using outdated versions of the mod won&amp;rsquo;t be a problem anymore
+ The next update of rimworld will break the mod for anyone who doesn&amp;rsquo;t update</description>
+    </item>
+    
   </channel>
 </rss>
